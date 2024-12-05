@@ -15,7 +15,9 @@
 ![播放器界面](./data/demo-pic.png)
 
 ### 功能演示
-<video src="https://youtu.be/gscpgHRkwVc" controls></video>
+![演示视频](./data/demo-video.gif)
+
+▶️ [观看完整视频演示](https://youtu.be/gscpgHRkwVc)
 
 主要功能展示：
 1. 音频文件加载与播放
