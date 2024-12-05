@@ -1,6 +1,6 @@
 # Podcast Player with Translation
 
-本项目旨在满足个人论文阅读需求，通过Google NotebookLM生成论文相关播客音频。项目提供一个支持中英文翻译的播客播放器。该播放器具有音频播放、同步字幕显示以及实时翻译功能，建议导入Google NotebookLM生成的音频文件以获得最佳体验，其他音频文件可能存在兼容性问题。 (访问Google NotebookLM: https://notebooklm.google.com/)
+本项目旨在满足个人论文阅读需求，通过Google NotebookLM生成论文相关播客音频。项目提供一个支持英文-中文翻译的播客播放器。该播放器具有音频播放、同步字幕显示以及实时翻译功能，建议导入Google NotebookLM生成的音频文件以获得最佳体验，其他音频文件可能存在兼容性问题。 (访问Google NotebookLM: https://notebooklm.google.com/)
 
 ## 功能特点
 
