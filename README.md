@@ -14,10 +14,8 @@
 ### 界面预览
 ![播放器界面](./data/demo-pic.png)
 
-### 功能演示视频
-<video width="100%" controls>
-  <source src="./data/demo-video.mp4" type="video/mp4">
-</video>
+### 功能演示
+<video src="https://youtu.be/gscpgHRkwVc" controls></video>
 
 主要功能展示：
 1. 音频文件加载与播放
@@ -80,7 +78,7 @@ python main.py
 - 使用播放控制按钮控制音频播放
 - 查看实时字幕和翻译结果
 
-## 项目结构
+## 目结构
 
 ```
 podcast_player/
