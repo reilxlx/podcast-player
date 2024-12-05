@@ -38,7 +38,6 @@
 
 1. 克隆仓库： 
 ```bash
-bash
 git clone https://github.com/reilxlx/podcast-player.git
 cd podcast-player
 ```
